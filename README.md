@@ -8,3 +8,8 @@
 | --- | --- | --- | --- |
 | 機能修正 | [hope-coursename-fix](https://github.com/better-hope/hope-coursename-fix) | `2022-leXXXXXX`のようなコース名を分かりやすい科目名に置き換えます。 | Chrome系 |
 | 機能追加 | [TimeTable for HOPE](https://github.com/better-hope/timetable-for-hope) | ダッシュボード(ホームページ)に時間割を追加します。 | Chrome系 / Firefox |
+
+## Tips
+| カテゴリ | タイトル |
+| --- | --- |
+| 通知 | [Tips: Google カレンダーで課題に関する通知を受け取る](https://github.com/Better-HOPE/awesome-hope/wiki/Tips:-Google-%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC%E3%81%A7%E8%AA%B2%E9%A1%8C%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E9%80%9A%E7%9F%A5%E3%82%92%E5%8F%97%E3%81%91%E5%8F%96%E3%82%8B) |
